@@ -14,7 +14,7 @@ def test():
     result = run_python_file("calculator", "nonexistent.py")
     print(result)
 
-    result = run_python_file("calculator", "lorem.txt")
+    result = run_python_file("calculator", "nonexistent.py")
     print(result)
 
 
