@@ -33,8 +33,9 @@ Full-Stack Thinking: Connecting the frontend user experience with the powerful b
 Clone the repository:
 
 
-✨git clone https://github.com/YourUsername/your-project-name.git
+✨git clone https://github.com/1VladPirlog/AI_coding_agent_generic_gemeni/
 ✨cd your-project-name
+
 Set up the environment:
 
 ✨python -m venv venv
